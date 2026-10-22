@@ -3,3 +3,6 @@ site_url: https://yasicj.github.io/hkjfzs/
 theme:
   name: material
   custom_dir: overrides
+
+extra_templates:
+  - robots.txt
